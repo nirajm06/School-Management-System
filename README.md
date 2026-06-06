@@ -42,8 +42,8 @@ school-management-system/
 ## Setup & Local Run Instructions
 
 ### 1. Active Workspace Note
-To get the most out of your coding agent, set the project directory as the active workspace path:
-`C:\Users\NIRAJ MAHAJAN\.gemini\antigravity\scratch\school-management-system`
+Set the project directory as the active workspace path:
+`D:\School Management System\school-management-system`
 
 ### 2. Run Database Seeding
 First, navigate to the `backend` directory, install packages, and seed database records:
